@@ -44,5 +44,6 @@ public class Openamazon {
 			}
 System.out.println("amazon site is opened");
 System.out.println("sdn books are displayed");
+System.out.println("test case passed");
 	}
 }
