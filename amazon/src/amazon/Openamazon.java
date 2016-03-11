@@ -42,6 +42,7 @@ public class Openamazon {
 				// TODO Auto-generated catch block
 				e.printStackTrace();
 			}
-System.out.println("amazon site is opened");		
+System.out.println("amazon site is opened");
+System.out.println("sdn books are displayed");
 	}
 }
